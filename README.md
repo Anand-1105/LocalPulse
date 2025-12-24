@@ -1,8 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-# LocalPulse — Local Business Directory
-
 LocalPulse is a lightweight web app for discovering and managing local businesses in your community. It includes a searchable directory, business detail pages, contact forms, and an admin dashboard for adding or updating listings.
 
 ## Features
@@ -59,6 +54,3 @@ PRs welcome. For major changes, open an issue first to discuss the change.
 
 ## License
 Specify your license here (e.g., MIT) or add a `LICENSE` file.
-
----
-If you'd like, I can also add a `.env.example` file, update `package.json` scripts, or prepare a short deploy guide for Vercel. What would you like next?
