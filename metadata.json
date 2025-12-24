@@ -1,0 +1,8 @@
+{
+  "name": "LocalPulse Directory",
+  "description": "A high-performance, visually stunning local business directory featuring immersive GSAP animations, modern card-based layouts, and a seamless discovery experience.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
